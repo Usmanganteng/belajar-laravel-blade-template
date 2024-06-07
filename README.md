@@ -24,7 +24,7 @@
 ---
 > - clone
 >  ```
->  git clone git@github.com:Usmanganteng/belajar-laravel-eloquent-api-resource.git
+>  git clone git@github.com:Usmanganteng/belajar-laravel-blade-template.git
 > ```
 >  - npm
 > ```
